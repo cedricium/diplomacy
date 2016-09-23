@@ -1,6 +1,6 @@
 ![diplomacy logo](img/logo.png)
 
-## educación, modernizada
+## education, modernized
 
 Diplomacy is an application that comes with the growing addiction to technology such as cellphones and computers. Students in this modern world lose interest in classical learning and are gradually making the transition in schools from the ancient to the modern. Diplomacy seeks to facilitate change and provide a useful and relevant tool to both the student and the teacher. We decided to create Diplomacy because it is a necessity not have long-term, it is immediate.
 
